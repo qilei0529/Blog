@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "迁移博客 - wordpress to jekyll"
-date:   2016-04-05 02:27:10 +0800
+date:   2016-04-05 10:27:10 +0800
 categories: jekyll update
 ---  
 趁着放假，好好捣鼓一下    
